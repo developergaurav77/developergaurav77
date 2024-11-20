@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Gaurav Thagunna</h1>
 <h3 align="center">A Data Analyst from Nepal</h3>
 
