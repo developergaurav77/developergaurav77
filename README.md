@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gaurav Thagunna</h1>
-<h3 align="center">A Data Analyst from Nepal</h3>
+<h3 align="center">A Data Engineer from Nepal</h3>
 
-- 🔭 I’m currently working on **Apache Spark**
+- 🔭 I’m currently working on **Databricks**
 
-- 🌱 I’m currently learning **Power BI and Streaming**
+- 🌱 I’m currently Preparing for  **Databricks Data Engineer Certifications**
 
 - 👨‍💻 All of my projects are available at [https://github.com/developergaurav77](https://github.com/developergaurav77)
 
